@@ -43,7 +43,7 @@ Todas las cajas/contenedores deben tener los siguientes atributos:
 
 ![css layout](https://ucarecdn.com/153d2a7c-b648-4d75-920b-940102f18eaa/-/resize/500x/) 
 
-En el siguiente ejemplo puedes ver como dividir en dos una página web para colocar un menú del lado izquierdo y el contenido del lado derecho.  Colocamos color rojo al DIV del menú, y color azul al DIV del contenido para que el ejemplo sea más fácil de entender.
+En el siguiente ejemplo puedes ver cómo dividir en dos una página web para colocar un menú del lado izquierdo y el contenido del lado derecho.  Colocamos color rojo al DIV del menú, y color azul al DIV del contenido para que el ejemplo sea más fácil de entender.
 
 <iframe width="100%" height="300" src="//jsfiddle.net/BreatheCode/kevomsyq/2/embedded/html,css,result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
